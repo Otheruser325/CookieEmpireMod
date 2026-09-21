@@ -1,0 +1,571 @@
+local L0_1, L1_1, L2_1, L3_1, L4_1, L5_1, L6_1
+L0_1 = module
+L1_1 = (...)
+L2_1 = package
+L2_1 = L2_1.seeall
+L0_1(L1_1, L2_1)
+L0_1 = {}
+externalBuildingTable = L0_1
+L0_1 = 1
+L1_1 = 48
+L2_1 = 1
+for L3_1 = L0_1, L1_1, L2_1 do
+  L4_1 = externalBuildingTable
+  L5_1 = "s"
+  L6_1 = L3_1
+  L5_1 = L5_1 .. L6_1
+  L4_1[L3_1] = L5_1
+end
+L0_1 = 1.3
+L1_1 = {}
+L2_1 = {}
+L2_1.displayName = "Cookie Press"
+L2_1.imgName = "Struct_cookiepress"
+L1_1.s1 = L2_1
+L2_1 = {}
+L2_1.displayName = "Stone Oven"
+L2_1.imgName = "Struct_stoneoven"
+L1_1.s2 = L2_1
+L2_1 = {}
+L2_1.displayName = "Stand"
+L2_1.imgName = "Struct_stand"
+L1_1.s3 = L2_1
+L2_1 = {}
+L2_1.displayName = "Farm"
+L2_1.imgName = "Struct_farm"
+L1_1.s4 = L2_1
+L2_1 = {}
+L2_1.displayName = "Robot"
+L2_1.imgName = "Struct_robot"
+L1_1.s5 = L2_1
+L2_1 = {}
+L2_1.displayName = "Well"
+L2_1.imgName = "Struct_well"
+L1_1.s6 = L2_1
+L2_1 = {}
+L2_1.displayName = "Tree"
+L2_1.imgName = "Struct_tree"
+L1_1.s7 = L2_1
+L2_1 = {}
+L2_1.displayName = "Warehouse"
+L2_1.imgName = "Struct_warehouse"
+L1_1.s8 = L2_1
+L2_1 = {}
+L2_1.displayName = "Delivered Cookies"
+L2_1.imgName = "Struct_box"
+L1_1.s9 = L2_1
+L2_1 = {}
+L2_1.displayName = "Vending Machine"
+L2_1.imgName = "Struct_vending"
+L1_1.s10 = L2_1
+L2_1 = {}
+L2_1.displayName = "Surprise Eggs"
+L2_1.imgName = "Struct_easter"
+L1_1.s11 = L2_1
+L2_1 = {}
+L2_1.displayName = "Train"
+L2_1.imgName = "Struct_train"
+L1_1.s12 = L2_1
+L2_1 = {}
+L2_1.displayName = "Cookie Puncher"
+L2_1.imgName = "Struct_cookiepuncher"
+L1_1.s13 = L2_1
+L2_1 = {}
+L2_1.displayName = "Mine"
+L2_1.imgName = "Struct_mine"
+L1_1.s14 = L2_1
+L2_1 = {}
+L2_1.displayName = "Dispenser"
+L2_1.imgName = "Struct_dispenser"
+L1_1.s15 = L2_1
+L2_1 = {}
+L2_1.displayName = "Remote Production"
+L2_1.imgName = "Struct_button"
+L1_1.s16 = L2_1
+L2_1 = {}
+L2_1.displayName = "Compression Tank"
+L2_1.imgName = "Struct_compression"
+L1_1.s17 = L2_1
+L2_1 = {}
+L2_1.displayName = "Steam Puncher"
+L2_1.imgName = "Struct_steampunk"
+L1_1.s18 = L2_1
+L2_1 = {}
+L2_1.displayName = "Storm"
+L2_1.imgName = "Struct_storm"
+L1_1.s19 = L2_1
+L2_1 = {}
+L2_1.displayName = "Lucky Win"
+L2_1.imgName = "Struct_slots"
+L1_1.s20 = L2_1
+L2_1 = {}
+L2_1.displayName = "Supply Drop"
+L2_1.imgName = "Struct_plane"
+L1_1.s21 = L2_1
+L2_1 = {}
+L2_1.displayName = "Fossilization"
+L2_1.imgName = "Struct_fossil"
+L1_1.s22 = L2_1
+L2_1 = {}
+L2_1.displayName = "Underwater Extraction"
+L2_1.imgName = "Struct_submarine"
+L1_1.s23 = L2_1
+L2_1 = {}
+L2_1.displayName = "Cookie Rig"
+L2_1.imgName = "Struct_rig"
+L1_1.s24 = L2_1
+L2_1 = {}
+L2_1.displayName = "Truck"
+L2_1.imgName = "Struct_truck"
+L1_1.s25 = L2_1
+L2_1 = {}
+L2_1.displayName = "Volcano"
+L2_1.imgName = "Struct_volcano"
+L1_1.s26 = L2_1
+L2_1 = {}
+L2_1.displayName = "Future Factory"
+L2_1.imgName = "Struct_futurefactory"
+L1_1.s27 = L2_1
+L2_1 = {}
+L2_1.displayName = "Cargo Ship"
+L2_1.imgName = "Struct_ship"
+L1_1.s28 = L2_1
+L2_1 = {}
+L2_1.displayName = "Compressor"
+L2_1.imgName = "Struct_compressor"
+L1_1.s29 = L2_1
+L2_1 = {}
+L2_1.displayName = "Temple"
+L2_1.imgName = "Struct_temple"
+L1_1.s30 = L2_1
+L2_1 = {}
+L2_1.displayName = "Lab"
+L2_1.imgName = "Struct_lab"
+L1_1.s31 = L2_1
+L2_1 = {}
+L2_1.displayName = "Powerplant"
+L2_1.imgName = "Struct_powerplant"
+L1_1.s32 = L2_1
+L2_1 = {}
+L2_1.displayName = "Recycled"
+L2_1.imgName = "Struct_recycle"
+L1_1.s33 = L2_1
+L2_1 = {}
+L2_1.displayName = "Bank"
+L2_1.imgName = "Struct_bank"
+L1_1.s34 = L2_1
+L2_1 = {}
+L2_1.displayName = "Oxygenator"
+L2_1.imgName = "Struct_oxygen"
+L1_1.s35 = L2_1
+L2_1 = {}
+L2_1.displayName = "Assembler"
+L2_1.imgName = "Struct_assembly"
+L1_1.s36 = L2_1
+L2_1 = {}
+L2_1.displayName = "Classified Factory"
+L2_1.imgName = "Struct_classified"
+L1_1.s37 = L2_1
+L2_1 = {}
+L2_1.displayName = "Hypno"
+L2_1.imgName = "Struct_hypno"
+L1_1.s38 = L2_1
+L2_1 = {}
+L2_1.displayName = "Cloner"
+L2_1.imgName = "Struct_cloner"
+L1_1.s39 = L2_1
+L2_1 = {}
+L2_1.displayName = "Moon Factory"
+L2_1.imgName = "Struct_moonbase"
+L1_1.s40 = L2_1
+L2_1 = {}
+L2_1.displayName = "Magic Wand"
+L2_1.imgName = "Struct_magicwand"
+L1_1.s41 = L2_1
+L2_1 = {}
+L2_1.displayName = "Tornado"
+L2_1.imgName = "Struct_tornado"
+L1_1.s42 = L2_1
+L2_1 = {}
+L2_1.displayName = "Imaginary"
+L2_1.imgName = "Struct_unicorn"
+L1_1.s43 = L2_1
+L2_1 = {}
+L2_1.displayName = "4D Printer"
+L2_1.imgName = "Struct_4dprinter"
+L1_1.s44 = L2_1
+L2_1 = {}
+L2_1.displayName = "Rocket"
+L2_1.imgName = "Struct_rocket"
+L1_1.s45 = L2_1
+L2_1 = {}
+L2_1.displayName = "Summoner"
+L2_1.imgName = "Struct_summoner"
+L1_1.s46 = L2_1
+L2_1 = {}
+L2_1.displayName = "Portal"
+L2_1.imgName = "Struct_nether"
+L1_1.s47 = L2_1
+L2_1 = {}
+L2_1.displayName = "Growth Ray"
+L2_1.imgName = "Struct_shrinkray"
+L1_1.s48 = L2_1
+buildingTable = L1_1
+L1_1 = {}
+L2_1 = {}
+L2_1.needed = 10
+L2_1.boost = 2
+L1_1[1] = L2_1
+L2_1 = {}
+L2_1.needed = 25
+L2_1.boost = 3
+L1_1[2] = L2_1
+L2_1 = {}
+L2_1.needed = 50
+L2_1.boost = 5
+L1_1[3] = L2_1
+L2_1 = {}
+L2_1.needed = 100
+L2_1.boost = 8
+L1_1[4] = L2_1
+L2_1 = {}
+L2_1.needed = 125
+L2_1.boost = 12
+L1_1[5] = L2_1
+L2_1 = {}
+L2_1.needed = 150
+L2_1.boost = 17
+L1_1[6] = L2_1
+L2_1 = {}
+L2_1.needed = 175
+L2_1.boost = 23
+L1_1[7] = L2_1
+L2_1 = {}
+L2_1.needed = 200
+L2_1.boost = 30
+L1_1[8] = L2_1
+L2_1 = {}
+L2_1.needed = 250
+L2_1.boost = 38
+L1_1[9] = L2_1
+L2_1 = {}
+L2_1.needed = 300
+L2_1.boost = 47
+L1_1[10] = L2_1
+L2_1 = {}
+L2_1.needed = 350
+L2_1.boost = 57
+L1_1[11] = L2_1
+L2_1 = {}
+L2_1.needed = 400
+L2_1.boost = 68
+L1_1[12] = L2_1
+L2_1 = {}
+L2_1.needed = 450
+L2_1.boost = 80
+L1_1[13] = L2_1
+L2_1 = {}
+L2_1.needed = 500
+L2_1.boost = 93
+L1_1[14] = L2_1
+L2_1 = {}
+L2_1.needed = 550
+L2_1.boost = 107
+L1_1[15] = L2_1
+L2_1 = {}
+L2_1.needed = 600
+L2_1.boost = 122
+L1_1[16] = L2_1
+L2_1 = {}
+L2_1.needed = 650
+L2_1.boost = 138
+L1_1[17] = L2_1
+L2_1 = {}
+L2_1.needed = 700
+L2_1.boost = 155
+L1_1[18] = L2_1
+L2_1 = {}
+L2_1.needed = 750
+L2_1.boost = 173
+L1_1[19] = L2_1
+L2_1 = {}
+L2_1.needed = 800
+L2_1.boost = 192
+L1_1[20] = L2_1
+L2_1 = {}
+L2_1.needed = 850
+L2_1.boost = 212
+L1_1[21] = L2_1
+L2_1 = {}
+L2_1.needed = 900
+L2_1.boost = 233
+L1_1[22] = L2_1
+L2_1 = {}
+L2_1.needed = 950
+L2_1.boost = 250
+L1_1[23] = L2_1
+L2_1 = {}
+L2_1.needed = 1000
+L2_1.boost = 275
+L1_1[24] = L2_1
+L2_1 = {}
+L3_1 = {}
+L3_1.needed = 5
+L3_1.boost = 2
+L2_1[1] = L3_1
+L3_1 = {}
+L3_1.needed = 10
+L3_1.boost = 2
+L2_1[2] = L3_1
+L3_1 = {}
+L3_1.needed = 15
+L3_1.boost = 2
+L2_1[3] = L3_1
+L3_1 = {}
+L3_1.needed = 20
+L3_1.boost = 2
+L2_1[4] = L3_1
+L3_1 = {}
+L3_1.needed = 25
+L3_1.boost = 2
+L2_1[5] = L3_1
+
+function L3_1(A0_2)
+  local L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2
+  L1_2 = 1
+  L2_2 = nil
+  L3_2 = 0
+  L4_2 = L1_1
+  L4_2 = #L4_2
+  L5_2 = 1
+  L6_2 = -1
+  for L7_2 = L4_2, L5_2, L6_2 do
+    L8_2 = buildingTable
+    L8_2 = L8_2[A0_2]
+    L8_2 = L8_2.quantityOwned
+    L9_2 = L1_1
+    L9_2 = L9_2[L7_2]
+    L9_2 = L9_2.needed
+    if L8_2 >= L9_2 then
+      L8_2 = L1_1
+      L8_2 = L8_2[L7_2]
+      L8_2 = L8_2.boost
+      L1_2 = L1_2 * L8_2
+      L8_2 = L1_1
+      L8_2 = L8_2[L7_2]
+      L8_2 = L8_2.needed
+      if L3_2 < L8_2 then
+        L8_2 = L1_1
+        L8_2 = L8_2[L7_2]
+        L3_2 = L8_2.needed
+      end
+    else
+      L8_2 = L1_1
+      L8_2 = L8_2[L7_2]
+      L2_2 = L8_2.needed
+    end
+  end
+  L4_2 = L1_2
+  L5_2 = L3_2
+  L6_2 = L2_2
+  return L4_2, L5_2, L6_2
+end
+
+getBoostForCommonStructure = L3_1
+
+function L3_1(A0_2)
+  local L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2
+  L1_2 = 1
+  L2_2 = nil
+  L3_2 = 0
+  L4_2 = L2_1
+  L4_2 = #L4_2
+  L5_2 = 1
+  L6_2 = -1
+  for L7_2 = L4_2, L5_2, L6_2 do
+    L8_2 = buildingTable
+    L8_2 = L8_2[A0_2]
+    L8_2 = L8_2.quantityOwned
+    L9_2 = L2_1
+    L9_2 = L9_2[L7_2]
+    L9_2 = L9_2.needed
+    if L8_2 >= L9_2 then
+      L8_2 = L2_1
+      L8_2 = L8_2[L7_2]
+      L8_2 = L8_2.boost
+      L1_2 = L1_2 * L8_2
+      L8_2 = L2_1
+      L8_2 = L8_2[L7_2]
+      L8_2 = L8_2.needed
+      if L3_2 < L8_2 then
+        L8_2 = L2_1
+        L8_2 = L8_2[L7_2]
+        L3_2 = L8_2.needed
+      end
+    else
+      L8_2 = L2_1
+      L8_2 = L8_2[L7_2]
+      L2_2 = L8_2.needed
+    end
+  end
+  L4_2 = L1_2
+  L5_2 = L3_2
+  L6_2 = L2_2
+  return L4_2, L5_2, L6_2
+end
+
+getBoostForEpicStructure = L3_1
+
+function L3_1()
+  local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2
+  L0_2 = 7
+  L1_2 = 1.3
+  L2_2 = buildingTable
+  L3_2 = externalBuildingTable
+  L3_2 = L3_2[1]
+  L2_2 = L2_2[L3_2]
+  L2_2.baseCost = 250
+  L2_2 = 2
+  L3_2 = externalBuildingTable
+  L3_2 = #L3_2
+  L4_2 = 1
+  for L5_2 = L2_2, L3_2, L4_2 do
+    L6_2 = buildingTable
+    L7_2 = externalBuildingTable
+    L7_2 = L7_2[L5_2]
+    L6_2 = L6_2[L7_2]
+    L7_2 = buildingTable
+    L8_2 = externalBuildingTable
+    L9_2 = L5_2 - 1
+    L8_2 = L8_2[L9_2]
+    L7_2 = L7_2[L8_2]
+    L7_2 = L7_2.baseCost
+    L7_2 = L7_2 * L0_2
+    L6_2.baseCost = L7_2
+    L0_2 = L0_2 + L1_2
+    L6_2 = nil
+  end
+  L0_2 = nil
+  L1_2 = nil
+end
+
+function L4_1()
+  local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2
+  L0_2 = 12
+  L1_2 = -0.15
+  L2_2 = buildingTable
+  L3_2 = externalBuildingTable
+  L3_2 = L3_2[1]
+  L2_2 = L2_2[L3_2]
+  L2_2.baseCps = 1
+  L2_2 = 2
+  L3_2 = externalBuildingTable
+  L3_2 = #L3_2
+  L4_2 = 1
+  for L5_2 = L2_2, L3_2, L4_2 do
+    L6_2 = buildingTable
+    L7_2 = externalBuildingTable
+    L7_2 = L7_2[L5_2]
+    L6_2 = L6_2[L7_2]
+    L7_2 = buildingTable
+    L8_2 = externalBuildingTable
+    L9_2 = L5_2 - 1
+    L8_2 = L8_2[L9_2]
+    L7_2 = L7_2[L8_2]
+    L7_2 = L7_2.baseCps
+    L7_2 = L7_2 * L0_2
+    L6_2.baseCps = L7_2
+    L0_2 = L0_2 + L1_2
+    if L0_2 < 6 then
+      L0_2 = 6
+    end
+    L6_2 = nil
+  end
+  L0_2 = nil
+  L1_2 = nil
+end
+
+function L5_1()
+  local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2
+  L0_2 = 1
+  L1_2 = externalBuildingTable
+  L1_2 = #L1_2
+  L2_2 = 1
+  for L3_2 = L0_2, L1_2, L2_2 do
+    L4_2 = buildingTable
+    L5_2 = externalBuildingTable
+    L5_2 = L5_2[L3_2]
+    L4_2 = L4_2[L5_2]
+    L5_2 = "s"
+    L6_2 = L3_2
+    L5_2 = L5_2 .. L6_2
+    L4_2.name = L5_2
+    L5_2 = settings
+    L6_2 = L5_2
+    L5_2 = L5_2.loadVar
+    L7_2 = "Owned"
+    L8_2 = L4_2.name
+    L7_2 = L7_2 .. L8_2
+    L5_2 = L5_2(L6_2, L7_2)
+    if not L5_2 then
+      L5_2 = 0
+    end
+    L4_2.quantityOwned = L5_2
+    L5_2 = L0_1
+    L4_2.costAddedEachTime = L5_2
+  end
+end
+
+L6_1 = L3_1
+L6_1()
+L6_1 = L4_1
+L6_1()
+L6_1 = L5_1
+L6_1()
+
+function L6_1()
+  local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2, L14_2
+  L0_2 = L3_1
+  L0_2()
+  L0_2 = L4_1
+  L0_2()
+  L0_2 = 1
+  L1_2 = externalBuildingTable
+  L1_2 = #L1_2
+  L2_2 = 1
+  for L3_2 = L0_2, L1_2, L2_2 do
+    L4_2 = print
+    L5_2 = "cost of "
+    L6_2 = buildingTable
+    L7_2 = externalBuildingTable
+    L7_2 = L7_2[L3_2]
+    L6_2 = L6_2[L7_2]
+    L6_2 = L6_2.displayName
+    L7_2 = " is: "
+    L8_2 = formatNumber
+    L9_2 = buildingTable
+    L10_2 = externalBuildingTable
+    L10_2 = L10_2[L3_2]
+    L9_2 = L9_2[L10_2]
+    L9_2 = L9_2.baseCost
+    L8_2 = L8_2(L9_2)
+    L9_2 = " old cps is: "
+    L10_2 = formatNumber
+    L11_2 = buildingTable
+    L12_2 = externalBuildingTable
+    L12_2 = L12_2[L3_2]
+    L11_2 = L11_2[L12_2]
+    L11_2 = L11_2.baseCps
+    L10_2 = L10_2(L11_2)
+    L11_2 = " new: "
+    L12_2 = formatNumber
+    L13_2 = buildingTable
+    L14_2 = externalBuildingTable
+    L14_2 = L14_2[L3_2]
+    L13_2 = L13_2[L14_2]
+    L13_2 = L13_2.baseCps2
+    L12_2 = L12_2(L13_2)
+    L5_2 = L5_2 .. L6_2 .. L7_2 .. L8_2 .. L9_2 .. L10_2 .. L11_2 .. L12_2
+    L4_2(L5_2)
+  end
+end
